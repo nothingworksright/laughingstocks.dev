@@ -1,4 +1,4 @@
-# laughingstocks.dev  
+# https://www.laughingstocks.dev  
 
 The official website of the nothingworksright laughingstocks.  
 
